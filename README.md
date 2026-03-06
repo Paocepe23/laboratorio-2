@@ -392,3 +392,13 @@ Compresión de datos: Permite identificar qué componentes de frecuencia tienen 
 ## ¿En qué se diferencia la correlación cruzada de la convolución? 
 Inversión de la señal: En la convolución, una de las señales se debe invertir en el tiempo (reflejar) antes de deslizarla y sumar. En la correlación cruzada, las señales se comparan directamente sin invertir ninguna.
 Propiedad de conmutatividad: La convolución es conmutativa, pero la correlación cruzada no lo es; el orden de las señales cambia el resultado del desplazamiento.
+
+# Declaración de uso de herramientas de IA
+
+Durante la elaboración de este laboratorio se utilizaron herramientas de inteligencia artificial basadas en modelos de lenguaje como apoyo en tareas de consulta, revisión de redacción y organización del código.
+
+Estas herramientas se emplearon únicamente como asistencia técnica para estructuración del documento, aclaración de conceptos y verificación de implementaciones en Python.
+
+Los diagramas de flujo fueron generados inicialmente mediante herramientas compatibles con **Mermaid**, y posteriormente ajustados para representar la lógica del programa.
+
+
