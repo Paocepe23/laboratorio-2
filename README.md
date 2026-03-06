@@ -9,18 +9,27 @@ Implementar la Transformada de Fourier para realizar un análisis espectral de s
 # Metodología del experimento.
 ## Fase de Análisis Matemático y Simulación (Convolución).
 En esta etapa se busca contrastar el cálculo manual con el computacional.
+
 Definición de secuencias: Se establecen las señales discretas  utilizando los dígitos del código estudiantil y la cédula de ciudadanía respectivamente.
+
 Cálculo Analítico: Se aplica la sumatoria de convolución de forma manual para obtener la secuencia resultante y su representación gráfica.
+
 Implementación en Python: Se desarrolla un script para ejecutar la misma operación y generar las gráficas secuenciales, permitiendo la validación de los resultados obtenidos a mano.
+
 ## Fase de Caracterización de Similitud (Correlación)
-Esta fase se enfoca en el análisis de señales trigonométricas:Generación de señales: Se definen las funciones con un periodo de muestreo.
-Operación de Correlación: Se calcula la correlación cruzada entre ambas señales para medir su grado de similitud y se analiza la secuencia resultante de forma gráfica.
+Esta fase se enfoca en el análisis de señales trigonométricas:Generación de señales, se definen las funciones con un periodo de muestreo.
+Operación de Correlación se calcula la correlación cruzada entre ambas señales para medir su grado de similitud y se analiza la secuencia resultante de forma gráfica.
 ## Fase de Procesamiento de Señales Biológicas y Frecuencia.
 Es la etapa de aplicación práctica con hardware y señales reales:
-Adquisición: Se genera una señal biológica mediante el generador de señales.
+
+Adquisición: Se geenera una señal biológica mediante el generador de señales.
+
 Digitalización: Se determina la frecuencia de Nyquist de la señal y se procede a su digitalización utilizando una frecuencia de muestreo de 4.
+
 Análisis Estadístico: Se caracteriza la señal en el dominio del tiempo obteniendo medidas de tendencia central (media, mediana) y de dispersión (desviación estándar).
+
 Análisis Espectral: Se aplica la Transformada de Fourier para trasladar la señal al dominio de la frecuencia, graficando su espectro y densidad espectral de potencia.
+
 # Marco conceptual.
 ## Electrooculografía (EOG).
 Es la técnica que mide la diferencia de potencial existente entre la córnea y la retina (potencial córneo-retiniano).
