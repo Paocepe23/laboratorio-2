@@ -392,5 +392,3 @@ Compresión de datos: Permite identificar qué componentes de frecuencia tienen 
 ## ¿En qué se diferencia la correlación cruzada de la convolución? 
 Inversión de la señal: En la convolución, una de las señales se debe invertir en el tiempo (reflejar) antes de deslizarla y sumar. En la correlación cruzada, las señales se comparan directamente sin invertir ninguna.
 Propiedad de conmutatividad: La convolución es conmutativa, pero la correlación cruzada no lo es; el orden de las señales cambia el resultado del desplazamiento.
-
-[⬆ Volver al índice](#indice)
