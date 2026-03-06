@@ -74,6 +74,8 @@ Para señales biológicas, no basta con la media temporal; se requieren medidas 
 <img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/394f6c49-a6b8-4e45-bf22-71cc2d5ba899" />
 <img width="473" height="651" alt="image" src="https://github.com/user-attachments/assets/aaccf875-f763-4dcf-a7b6-ee8627eda6a5" />
 <img width="462" height="641" alt="image" src="https://github.com/user-attachments/assets/2f2a3644-7efd-48f4-a528-52eb49d91d1e" />
+
+
 ### ¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales? 
 
 En procesamiento de señales biomédicas, sirve para reconocer una forma de onda específica (como un latido cardíaco) dentro de una señal ruidosa al compararla con un patrón de referencia.
