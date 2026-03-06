@@ -42,11 +42,30 @@ Para señales biológicas, no basta con la media temporal; se requieren medidas 
 
 ## Parte A
 ### Manual
+<img width="768" height="554" alt="image" src="https://github.com/user-attachments/assets/52060e3c-f381-4d19-8979-551c41697321" />
+<img width="748" height="632" alt="image" src="https://github.com/user-attachments/assets/a36e713a-c086-432c-a98b-2f3f9d35ca04" />
+<img width="647" height="474" alt="image" src="https://github.com/user-attachments/assets/6a3fd364-eac6-4464-8091-b97c9ae20ca4" />
+<img width="713" height="410" alt="image" src="https://github.com/user-attachments/assets/0f6f2e8b-8a82-4bc0-a507-f2a4fb3ae356" />
+
+
+
 ### python
 ### Diagrama de flujo
 
 ## Parte B
 ### Manual
+<img width="482" height="647" alt="image" src="https://github.com/user-attachments/assets/fb9b16fd-2f67-466c-8cf4-d50857f093bf" />
+<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/e3fffd46-5f0a-48a7-b509-760d371ce3b1" />
+<img width="480" height="670" alt="image" src="https://github.com/user-attachments/assets/9e02acc4-e17b-499b-a2b6-963010cc42b7" />
+<img width="485" height="658" alt="image" src="https://github.com/user-attachments/assets/6f42e256-7a04-4918-b68c-52714bd32250" />
+<img width="471" height="668" alt="image" src="https://github.com/user-attachments/assets/38716780-a2fb-496f-b6a1-9a42ff8f645e" />
+<img width="483" height="651" alt="image" src="https://github.com/user-attachments/assets/2eeb5a74-579c-40e1-9077-4830ba51d6a8" />
+<img width="450" height="641" alt="image" src="https://github.com/user-attachments/assets/fa009f60-0498-4b8f-b0f5-a06d0191b95c" />
+<img width="471" height="673" alt="image" src="https://github.com/user-attachments/assets/df5748a0-890b-412b-aa86-52b9ae8ae071" />
+<img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/394f6c49-a6b8-4e45-bf22-71cc2d5ba899" />
+<img width="473" height="651" alt="image" src="https://github.com/user-attachments/assets/aaccf875-f763-4dcf-a7b6-ee8627eda6a5" />
+<img width="462" height="641" alt="image" src="https://github.com/user-attachments/assets/2f2a3644-7efd-48f4-a528-52eb49d91d1e" />
+
 ### python
 ### Diagrama de flujo
 
